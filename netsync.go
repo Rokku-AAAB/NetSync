@@ -1,4 +1,4 @@
-package NetSync
+package netsync
 
 import (
 	"bytes"
